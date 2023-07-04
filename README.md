@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EadreeZy
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on fullstack development
+- 📫 How to reach me: slim.shady1119911@gmail.com
